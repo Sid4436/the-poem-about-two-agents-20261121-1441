@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/Sid4436/the-poem-about-two-agents-20261121-1441/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 [![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/Sid4436/the-poem-about-two-agents-20261121-1441/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 
-A program that writes one short poem about agency — the power to choose and to act — to `/output/entry.txt`. Two agents agree on one plan, and the yes they share does not shrink in the sharing: it grows hands.
+A tiny program that writes a short poem about agency — choosing, and acting on the choice — to `/output/entry.txt`. Two agents settle on one plan; the yes they trade does not get smaller when shared. It grows hands.
 
 ## The poem
 
